@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  TemperatureandHumidityProgram.cpp
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(153): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(154): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacob\source\repos\temperatureandhumidityprogram\temperatureandhumidityprogram\temperatureandhumidityprogram.cpp(324): warning C4018: '<': signed/unsigned mismatch
+  TemperatureandHumidityProgram.vcxproj -> C:\Users\jacob\source\repos\TemperatureandHumidityProgram\Debug\TemperatureandHumidityProgram.exe
