@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jacob"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2019-02-07 10:27:37 "/>
+        <attribute name="created" value="amFjb2I7TEFQVE9QLUZWMTVRTUhNOzIwMTktMDItMDc7IjEwOjE4OjMxICI7Mjc3NQ=="/>
+        <attribute name="edited" value="amFjb2I7TEFQVE9QLUZWMTVRTUhNOzIwMTktMDItMDc7IjEwOjI3OjM3ICI7MTsyODg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <if expression="">
+                <then>
+                    <while expression="">
+                        <comment text="Inputs the vector"/>
+                        <input variable=""/>
+                        <comment text="Using an iterator to find the date in the vector and compares it "/>
+                        <if expression="">
+                            <then>
+                                <comment text="The date has been found and prints out the result in to the console "/>
+                            </then>
+                            <else/>
+                        </if>
+                    </while>
+                </then>
+                <else>
+                    <comment text="Could not find date"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
